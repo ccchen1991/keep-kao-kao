@@ -1,4 +1,4 @@
-# KeepKaoKao
+# Keep Kao Kao [![Build Status](https://travis-ci.org/ccchen1991/keep-kao-kao.svg?branch=master)](https://travis-ci.org/ccchen1991/keep-kao-kao)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
