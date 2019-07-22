@@ -3,9 +3,9 @@ sudo: required
 addons:
   chrome: stable
   sonarcloud:
-    organization: "chenchewchoong"
+    organization: $SONAR_ORG
     token:
-      secure: "62ff3b45ce41cf17c9490a2f31b745397c291de9"
+      secure: $SONAR_TOKEN
 
 language: node_js
 node_js:
