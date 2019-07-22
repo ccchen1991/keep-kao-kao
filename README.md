@@ -1,4 +1,5 @@
-# Keep Kao Kao [![Build Status](https://travis-ci.org/ccchen1991/keep-kao-kao.svg?branch=master)](https://travis-ci.org/ccchen1991/keep-kao-kao)
+# Keep Kao Kao [![Build Status](https://travis-ci.org/ccchen1991/keep-kao-kao.svg?branch=master)](https://travis-ci.org/ccchen1991/keep-kao-kao) [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=ccchen1991_keep-kao-kao&metric=alert_status)](https://sonarcloud.io/dashboard?id=ccchen1991_keep-kao-kao)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
