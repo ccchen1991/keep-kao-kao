@@ -2,6 +2,10 @@ sudo: required
 
 addons:
   chrome: stable
+  sonarcloud:
+    organization: "chenchewchoong"
+    token:
+      secure: "62ff3b45ce41cf17c9490a2f31b745397c291de9"
 
 language: node_js
 node_js:
@@ -13,6 +17,7 @@ before_script:
 script:
   - npm run test
   - npm run build
+  - sonar-scanner
 
 branches:
   only:
